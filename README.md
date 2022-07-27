@@ -1,3 +1,9 @@
+# Deploy on Heroku
+
+Website link : https://react-weather-api-webapp.herokuapp.com/
+
+You can follows this gfg tutorial (https://www.geeksforgeeks.org/how-to-deploy-react-app-to-heroku/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
